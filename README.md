@@ -14,8 +14,5 @@ Mi background en desarrollo me permite ofrecer una visión integral del producto
 
 ### 🛠️ Lenguajes y herramientas :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,angular,html,css,laravel,java" alt="Python, JavaScript, Angular, HTML, CSS, Laravel, Java" width="450" height="450" style="margin-right: 10px;"/>
-  
-  <img src="https://skillicons.dev/icons?i=jira,postman,git,psql,sqlite" alt="Jira, Postman, Git, SQLite" width="450" height="450" style="margin-right: 10px;"/>
-
-  </p>
+  <img src="https://skillicons.dev/icons?i=py,js,angular,html,css,laravel,java,jira,postman,git,psql,sqlite" alt="Python, JavaScript, Angular, HTML, CSS, Laravel, Java, Jira, Postman, Git, PostgreSQL, SQLite" />
+</p>
