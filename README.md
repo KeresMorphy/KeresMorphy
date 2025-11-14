@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeresMorphy/KeresMorphy/main/assets/banner.png" alt="Banner de Perfil - Eduardo Castillo | QA Engineer & Web Dev">
 </p>
-Soy un profesional con **experiencia como Desarrollador Full Stack (Angular y Laravel)**.
 
-Actualmente, estoy en un proceso de crecimiento y transición hacia el **Aseguramiento de la Calidad (QA)**, gracias a la formación en el QA Engineer Bootcamp de Tripleten.
+---
+
+***Sobre mi:***
+
+estoy en un proceso de crecimiento y transición hacia el **Aseguramiento de la Calidad (QA)**, gracias a la formación en el QA Engineer Bootcamp de Tripleten.
 
 Mi background en desarrollo me permite ofrecer una visión integral del producto, y me enfoco en:
 
@@ -12,6 +15,8 @@ Mi background en desarrollo me permite ofrecer una visión integral del producto
 * **Gestión de Calidad:** Familiarizado con la ejecución de **Pruebas de Humo** y el seguimiento de errores utilizando **Jira**.
 
 🌱 **Mi principal motivación** es aplicar mi conocimiento dev para ser un colaborador eficaz en la mejora continua de la calidad del software y la entrega de productos estables.
+
+---
 
 ### 🛠️ Lenguajes y herramientas :
 <p align="center">
