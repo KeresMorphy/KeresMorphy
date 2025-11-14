@@ -17,6 +17,7 @@ Mi background en desarrollo me permite ofrecer una visión integral del producto
 ![QA & Testing](https://img.shields.io/badge/QA%20&%20Testing-5D5D5D?style=for-the-badge) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Apidoc](https://img.shields.io/badge/Apidoc-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
