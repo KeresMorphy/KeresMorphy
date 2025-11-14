@@ -12,15 +12,10 @@ Mi background en desarrollo me permite ofrecer una visión integral del producto
 
 🌱 **Mi principal motivación** es aplicar mi conocimiento dev para ser un colaborador eficaz en la mejora continua de la calidad del software y la entrega de productos estables.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Lenguajes y herramientas :
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,angular,html,css,laravel,java" alt="Python, JavaScript, Angular, HTML, CSS, Laravel, Java" width="45" height="45" style="margin-right: 10px;"/>
+  
+  <img src="https://skillicons.dev/icons?i=jira,postman,git,psql,sqlite" alt="Jira, Postman, Git, PostgreSQL, SQLite" width="45" height="45" style="margin-right: 10px;"/>
 
-![QA & Testing](https://img.shields.io/badge/QA%20&%20Testing-5D5D5D?style=for-the-badge) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Apidoc](https://img.shields.io/badge/Apidoc-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  </p>
