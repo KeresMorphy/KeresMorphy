@@ -30,13 +30,20 @@ Este proyecto es mi principal *case study* donde aplico análisis de requisitos,
 | [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](**https://www.youtube.com/watch?v=CMRlUv_kvns**) | Accede al código fuente, casos de prueba y reportes de *bugs* gestionados en Jira. |
 | [![Ver Demo](https://img.shields.io/badge/Demo%20Activa-20232A?style=for-the-badge&logo=netlify&logoColor=61DAFB)](**https://filext.com/es/extension-de-archivo/DEMO**) | Si el proyecto lo permite, aquí puedes probar la aplicación web o la documentación de la API. |
 
-### 💻 [Nombre de tu Mejor Proyecto Full Stack]
-[Breve descripción sobre el valor de tu mejor proyecto Full Stack con Angular/Laravel.]
+### 💻 BonnaMovil (Caso de Estudio Full Stack)
+
+Este fue un proyecto móvil empresarial a **gran escala** (Ionic/TypeScript y Firebase) que funcionó exclusivamente en un ambiente de producción interno.
+
+**Dada su magnitud y su naturaleza propietaria, este proyecto demuestra mi habilidad para:**
+
+* **Arquitectura:** Manejar una estructura de código compleja y modular con TypeScript y Firebase Functions.
+* **Escalabilidad:** Contribuir a una aplicación activa en producción por más de un año.
+* **Testing (Enfoque QA):** Este proyecto es la base de mi entendimiento sobre la complejidad del **Diseño de Pruebas de Regresión** en ambientes Legacy.
 
 | Enlace | Descripción |
 | :--- | :--- |
-| [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](**https://docs.github.com/es/repositories/creating-and-managing-repositories/duplicating-a-repository**) | Repositorio que muestra mi habilidad en el desarrollo Full Stack con [Angular/Laravel]. |
-
+| [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmoy13/BonnaMovil) | Accede al código fuente público para revisar la estructura, los patrones de diseño y las tecnologías utilizadas. |
+| *Demo No Disponible* | El proyecto depende de un ambiente interno y datos sensibles. |
 ---
 
 ### 🛠️ Lenguajes y herramientas :
