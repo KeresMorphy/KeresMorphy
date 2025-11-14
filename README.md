@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KeresMorphy/KeresMorphy/main/assets/banner-final.jpg" alt="Banner de Perfil - Eduardo Castillo | QA Engineer & Web Dev">
+  <img src="https://raw.githubusercontent.com/KeresMorphy/KeresMorphy/main/assets/banner.png" alt="Banner de Perfil - Eduardo Castillo | QA Engineer & Web Dev">
 </p>
 Soy un profesional con **experiencia como Desarrollador Full Stack (Angular y Laravel)**.
 
