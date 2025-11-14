@@ -18,11 +18,11 @@ Mi background en desarrollo me permite ofrecer una visión integral del producto
 
 ---
 
-## 🌟 Proyectos Destacados
+
 
 He seleccionado algunos proyectos clave que reflejan mi experiencia Full Stack y mi enfoque actual en QA.
 
-# 👩‍💻 Eduardo CG | Portafolio de Proyectos de Quality Assurance (QA)
+#Eduardo CG | Portafolio de Proyectos de Quality Assurance (QA)
 
 ¡Bienvenido a mi portafolio!
 
@@ -30,7 +30,7 @@ Soy un profesional de QA engineer centrado en el diseño de **pruebas funcionale
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados 🚀
 
 A continuación, se encuentran los detalles de mi experiencia en QA:
 
