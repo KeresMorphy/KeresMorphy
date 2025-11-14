@@ -1,10 +1,16 @@
-### 👋 ¡Hola! Soy Keres Morphy.
+### 👋 ¡Hola!.
 
-dev con experiencia Full Stack, especializado en el ecosistema **Angular y Laravel**.
+Soy un profesional con **experiencia como Desarrollador Full Stack (Angular y Laravel)**.
 
-Actualmente estoy realizando una transición de carrera, enfocando mi conocimiento de desarrollo hacia el **Aseguramiento de la Calidad (QA)**.
+Actualmente, estoy en un proceso de crecimiento y transición hacia el **Aseguramiento de la Calidad (QA)**, gracias a la formación en el QA Engineer Bootcamp de Tripleten.
 
-Mi objetivo es combinar mi entendimiento del código con un enfoque en **Pruebas Funcionales** y **Pruebas de Humo**, utilizando herramientas como **Jira y Postman**, para entregar software robusto y libre de errores.
+Mi background en desarrollo me permite ofrecer una visión integral del producto, y me enfoco en:
+
+* **Pruebas y Documentación:** He desarrollado habilidades en el **Diseño de Casos de Prueba** y el **Análisis de Requisitos**, entendiendo la importancia de la documentación rigurosa.
+* **Testing de APIs:** Cuento con experiencia en pruebas manuales de APIs, utilizando herramientas como **Postman** y **Apidoc**.
+* **Gestión de Calidad:** Familiarizado con la ejecución de **Pruebas de Humo** y el seguimiento de errores utilizando **Jira**.
+
+🌱 **Mi principal motivación** es aplicar mi conocimiento dev para ser un colaborador eficaz en la mejora continua de la calidad del software y la entrega de productos estables.
 
 ### 🛠️ Tecnologías y Herramientas
 
