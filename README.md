@@ -45,7 +45,7 @@ A continuación, se encuentran los detalles de mi experiencia en QA:
 
 
 
-### 💻 BonnaMovil (Caso de Estudio Full Stack)
+### 💻 BonnaMovil (dev Full Stack)
 
 Este fue un proyecto móvil empresarial a **gran escala** (Ionic/TypeScript y Firebase) que funcionó exclusivamente en un ambiente de producción interno.
 
@@ -57,7 +57,7 @@ Este fue un proyecto móvil empresarial a **gran escala** (Ionic/TypeScript y Fi
 
 | Enlace | Descripción |
 | :--- | :--- |
-| [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmoy13/BonnaMovil) | Accede al código fuente público para revisar la estructura, los patrones de diseño y las tecnologías utilizadas. |
+| [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmoy13/BonnaMovil) | el acceso al código fuente no debe ser debido a que es propiedad de bonnacarne. |
 | *Demo No Disponible* | El proyecto depende de un ambiente interno y datos sensibles. |
 ---
 
