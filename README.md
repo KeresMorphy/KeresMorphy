@@ -49,17 +49,12 @@ A continuación, se encuentran los detalles de mi experiencia en QA:
 
 Este fue un proyecto móvil empresarial a **gran escala** (Ionic/TypeScript y Firebase) que funcionó exclusivamente en un ambiente de producción interno.
 
-**Dada su magnitud y su naturaleza propietaria, este proyecto demuestra mi habilidad para:**
+**Dada su naturaleza propietaria no me hes posible dar una demo, en este proyecto aprendi:**
 
 * **Arquitectura:** Manejar una estructura de código compleja y modular con TypeScript y Firebase Functions.
 * **Escalabilidad:** Contribuir a una aplicación activa en producción por más de un año.
 * **Testing (Enfoque QA):** Este proyecto es la base de mi entendimiento sobre la complejidad del **Diseño de Pruebas de Regresión** en ambientes Legacy.
 
-| Enlace | Descripción |
-| :--- | :--- |
-| [![Ver Repositorio](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmoy13/BonnaMovil) | el acceso al código fuente no debe ser debido a que es propiedad de bonnacarne. |
-| *Demo No Disponible* | El proyecto depende de un ambiente interno y datos sensibles. |
----
 
 ### 🛠️ Lenguajes y herramientas :
 <p align="center">
