@@ -6,21 +6,19 @@
 
 ***Sobre mi:***
 
-¡Hola! Soy Eduardo Castillo. Actualmente estoy en un proceso de crecimiento y transición hacia el **Aseguramiento de la Calidad (QA)**, tras completar con éxito el QA Engineer Bootcamp de Tripleten.
+Egresado de Ingeniería en Tecnologías de la Información y Comunicaciones con más de dos años de experiencia como Desarrollador Full-Stack. Actualmente especializado en Aseguramiento de Calidad (QA) tras concluir mi formación en TripleTen. Mi trayectoria en desarrollo me permite abordar el testing con una mayor comprensión de la lógica del sistema, facilitando la detección de fallos críticos y optimizando la comunicación técnica con los equipos de ingeniería.
 
-Mi background como desarrollador Full Stack me permite ofrecer una visión integral del producto, enfocándome en:
+Especialización técnica:
 
-* **Pruebas y Documentación:** Diseño de Casos de Prueba y Análisis de Requisitos con documentación rigurosa.
-* **Testing de APIs:** Pruebas manuales utilizando herramientas como **Postman** y **Apidoc**.
-* **Gestión de Calidad:** Ejecución de **Pruebas de Humo**, Pruebas de Regresión y seguimiento de errores en **Jira**.
+  Análisis y Estrategia: Diseño de casos de prueba complejos y análisis de requisitos técnicos para prevenir regresiones en entornos de producción.
 
-🌱 **Mi motivación** es aplicar mi experiencia en programación para mejorar la estabilidad del software y la entrega de productos de alta calidad.
+  Testing de APIs: Validación técnica de servicios backend utilizando Postman y documentación bajo estándares de industria.
+
+  Ciclo de Vida del Software: Gestión integral de defectos y ejecución de pruebas de humo y regresión mediante Jira.
 
 ---
 
 # Eduardo CG | Portafolio de Proyectos de Quality Assurance (QA)
-
-¡Bienvenido a mi portafolio! Soy un QA Engineer centrado en el diseño de **pruebas funcionales y estratégicas**, optimizando procesos mediante metodologías como Clases de Equivalencia y Valores Límite.
 
 ---
 
