@@ -6,7 +6,7 @@
 
 ***Sobre mi:***
 
-Ingeniero en Tecnologías de la Información y Comunicaciones con más de dos años de experiencia como **Desarrollador Full-Stack** (Laravel/Angular). Actualmente especializado en **Aseguramiento de Calidad (QA)** tras concluir mi formación profesional en **TripleTen**. 
+egresado en Tecnologías de la Información y Comunicaciones con más de dos años de experiencia como **Desarrollador Full-Stack** (Laravel/Angular). Actualmente especializado en **Aseguramiento de Calidad (QA)** tras concluir mi formación profesional en **TripleTen**. 
 
 Mi trayectoria en desarrollo me permite abordar el testing con una profunda comprensión de la lógica del sistema, facilitando la creación de frameworks de automatización robustos, la detección de fallos críticos y la optimización de la comunicación técnica con los equipos de ingeniería.
 
