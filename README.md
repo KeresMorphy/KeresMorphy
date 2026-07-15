@@ -33,6 +33,7 @@ He desarrollado suites de pruebas enfocadas en la eficiencia, la escalabilidad y
 | **Estrategia de Pruebas Urban Routes** | Lógica de Negocio y Análisis de Riesgos | JIRA, Clases de Equivalencia | [Ver Estrategia](https://docs.google.com/spreadsheets/d/1EX9XLsAr-aipsk26cY2IRSY6JFthocjEfXww8Yz2evc/edit?usp=sharing) |
 | **Testing Funcional y UX** | Validación de Interfaz y Compatibilidad | Chrome, Firefox, Casos de Prueba | [Ver Casos de Prueba](https://docs.google.com/spreadsheets/d/1LXrrhhcjMCGdclSeeV6zn4biFTk8TCsJm8LfzkOBuhE/edit?usp=sharing) |
 | **broken-link-detective** | Validación de Interfaz y Compatibilidad | Chrome, Firefox, Casos de Prueba | [link](https://github.com/KeresMorphy/broken-link-detective) |
+| **broken-link-detective** | Validación de Interfaz y Compatibilidad | Chrome, Firefox, Casos de Prueba | [link](https://github.com/KeresMorphy/ALPHA-GYM-DEV-QA) |
 
 ---
 
