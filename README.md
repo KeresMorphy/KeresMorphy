@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KeresMorphy/KeresMorphy/main/assets/banner.png" alt="Banner de Perfil - Eduardo Castillo | QA Automation Engineer">
+  <img alt="Banner de Perfil - Eduardo Castillo | QA Automation Engineer">
 </p>
 
 ---
