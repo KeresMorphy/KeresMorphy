@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="Banner de Perfil - Eduardo Castillo | QA Automation Engineer">
 </p>
 
 ---
