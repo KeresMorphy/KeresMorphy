@@ -27,7 +27,6 @@ He desarrollado suites de pruebas enfocadas en la eficiencia, la escalabilidad y
 
 | Proyecto | Enfoque Principal | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :--- |
-(https://docs.google.com/spreadsheets/d/1LXrrhhcjMCGdclSeeV6zn4biFTk8TCsJm8LfzkOBuhE/edit?usp=sharing) |
 | **broken-link-detective** | Validación de Interfaz y Compatibilidad | Chrome, Firefox, Casos de Prueba | [link](https://github.com/KeresMorphy/broken-link-detective) |
 | **ALPHA-GYM-DEV-QA** |Sistema de gestion y control de accesos para gimnasios. Arquitectura moderna | Angular, Tailwind CSS, Python FastAPI y SQLite.| [link](https://github.com/KeresMorphy/ALPHA-GYM-DEV-QA) |
 | **broken-link-detective** |Herramienta de prueba de humo que audita todos los enlaces (etiquetas) de una página web determinada, comprobando el estado HTTP de cada uno. Detecta enlaces rotos| Python 3.13, Playwright, CSV reporting.| [link](https://github.com/KeresMorphy/broken-link-detective) |
