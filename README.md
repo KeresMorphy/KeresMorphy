@@ -52,6 +52,50 @@ Mi perfil combina **Desarrollo Full-Stack** con **Aseguramiento de Calidad (QA A
 
 ---
 
+## 📸 Vistazo Visual de Proyectos
+
+<div align="center">
+
+### 🏋️ ALPHA GYM — Dashboard & Control Biométrico en Tiempo Real
+<sub>Panel operativo con métricas en vivo, control de torniquete por hardware y consulta instantánea sin latencia.</sub>
+
+<br>
+
+<img src="./assets/screenshots/alpha_gym_dashboard.png" alt="ALPHA GYM Dashboard" width="95%" />
+
+<br><br>
+
+### ⏱️ Reloj Checador Digital LFT 2027 — Kiosko & Auditoría Criptográfica
+<sub>Modo de marcaje presencial con huella dactilar y tabla de auditoría con encadenamiento de hashes inmutables SHA-256.</sub>
+
+<br>
+
+| 1. Modo Kiosko de Marcaje | 2. Auditoría Criptográfica del Ledger |
+| :---: | :---: |
+| <img src="./assets/screenshots/reloj_checador_kiosko.png" alt="Kiosko Marcaje" width="100%" /> | <img src="./assets/screenshots/reloj_checador_auditoria.png" alt="Auditoría SHA-256" width="100%" /> |
+
+<br><br>
+
+### 🌾 Agrogama — Catálogo Agroindustrial & Fichas Técnicas
+<sub>Portal web responsivo con exhibición de líneas de producto y descarga de fichas técnicas oficiales.</sub>
+
+<br>
+
+<img src="./assets/screenshots/agrogama_catalog.png" alt="Agrogama Catálogo" width="95%" />
+
+<br><br>
+
+### 💊 CápsulaFit — E-commerce & Checkout Directo a WhatsApp
+<sub>Tienda virtual de carga ultra-rápida, filtros dinámicos, carrito persistente y generación automática de pedido.</sub>
+
+<br>
+
+<img src="./assets/screenshots/capsulafit_ecommerce.png" alt="CápsulaFit E-commerce" width="95%" />
+
+</div>
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
